@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Hiragino';
+    src: url('../font/hiragino_sans_gb_w3-webfont.woff') format('embedded-opentype'),
+         url('../font/hiragino_sans_gb_w3-webfont.woff2') format('woff');
+    font-weight: normal;
+    font-style: normal;
+ }
